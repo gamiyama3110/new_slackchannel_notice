@@ -2,6 +2,10 @@
 
 slackに作られたchannelをポストする。
 
+![image](https://user-images.githubusercontent.com/29309307/93583770-50645f80-f9df-11ea-9854-d4879726375f.png)
+
+作成時刻はGMT。
+
 ## Getting Started
 
 このプロジェクトはslack_api、及びslack_appを利用します。
